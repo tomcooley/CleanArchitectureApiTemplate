@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tom Cooley",
+    "classifications": [ "Common", "Console" ],
+    "identity": "TomCooley.CleanArchitectureApiTemplate",
+    "name": "Clean Architecture Api Template",
+    "shortName": "cleanapi"
+}
